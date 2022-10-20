@@ -3,6 +3,9 @@
 Problem #0.10: Write a computer program to verify Fermat's conjecture
 about the representation of natural numbers as sums of polygonal numbers.
 
+@Author = Hunter Matthews
+@Date = 10/20/22
+
 """
 
 
