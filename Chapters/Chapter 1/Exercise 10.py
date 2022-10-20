@@ -5,7 +5,9 @@ about the representation of natural numbers as sums of polygonal numbers.
 
 """
 
-def fermat_polygonal(s, x, n = 0, a = []):
+
+# Verifies Fermat's conjecture for a given two numbers 's' and 'x'
+def fermat_polygonal(s, x, n=0, a=[]):
     y = ~n * (~-n - n * s / 2)
     if x < y:
         return (x < 1) * a * (len(a) <= s)
