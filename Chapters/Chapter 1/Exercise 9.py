@@ -4,6 +4,9 @@ Problem #0.9: Make a list of numbers that can be written as sums of three square
 Which numbers are not in your list? What can you say about numbers that
 are not sums of three squares?
 
+@Author = Hunter Matthews
+@Date = 10/20/22
+
 """
 
 
